@@ -9,13 +9,6 @@
 * [Project Overview](#project-overview)
 * [This Website Features](#this-website-features)
 * [Setup and Instructions](#setup-and-instructions-for-using-the-project)
-* [Project Structure](#project-structure)
-* [Component Diagram](#component-diagram)
-* [Wireframes](#wireframes)
-* [Minimum Viable Product (MVP)](#mvp)
-* [Extensions](#extension)
-* [Further Implementations](#further-implementations--extensions)
-* [Acknowledgements](#acknowledgments)
 
 ## **Project Overview**
 As part of the Bright Network Technology Academy, we were assigned a group project to research, plan and develop a Full-stack project - a chat app in 10 days.
