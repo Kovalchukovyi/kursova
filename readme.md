@@ -1,0 +1,46 @@
+# **Chat App**
+
+<p align="center">
+	Let's have a chat with your friends!
+</p>
+
+
+## **Table of Contents**
+* [Project Overview](#project-overview)
+* [This Website Features](#this-website-features)
+* [Setup and Instructions](#setup-and-instructions-for-using-the-project)
+* [Project Structure](#project-structure)
+* [Component Diagram](#component-diagram)
+* [Wireframes](#wireframes)
+* [Minimum Viable Product (MVP)](#mvp)
+* [Extensions](#extension)
+* [Further Implementations](#further-implementations--extensions)
+* [Acknowledgements](#acknowledgments)
+
+## **Project Overview**
+As part of the Bright Network Technology Academy, we were assigned a group project to research, plan and develop a Full-stack project - a chat app in 10 days.
+
+### **This Website Features**
+- Login functionality
+- Registration
+- Add/remove friends
+- Chat with friends
+- Switch chats
+
+## **Setup and Instructions for using the Project**
+
+1. This Full-stack project runs on React and Express. Make sure you have Node and MongoDB installed to run the API and React. We used VSCode and MongoDB Compass for this project.
+2. Clone [Chat App](https://github.com/YoyoMai98/chat-app-full-stack.git) by typing the following commands into your terminal:
+```git clone git@github.com:YoyoMai98/chat-app-full-stack.git```. Open in VSCode.
+3. Within VSCode, navigate your terminal to the `express.js_server` folder and run the following two commands:
+```npm install```
+and
+```npm start```
+4. Navigate your terminal to the `react.js_app` folder and run the following two commands:
+```npm install```
+and
+```npm start```
+5. Navigate to your web browser and if it has not already displayed, enter in the following URL:
+```http://localhost:3000/```
+
+
